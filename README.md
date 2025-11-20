@@ -14,10 +14,12 @@ Unofficial. An utility to organize and manage AppImage files for you, generate d
 This prototype is an "[Archimage](https://github.com/ivan-hc/ArchImage)", i.e., an Arch Linux **container** inside an AppImage that alternately uses its own BubbleWrap and PROOT to mount a few directories on the host system for integration, and **only uses the libraries it has inside**.
 
 For this reason:
-1. traditional AppImages (not Archimages) can be launched without problems, but **only if they don't require libraries from the host system**
-2. other ArchImages, however, cannot be launched at all (error message says **Nested environments are not allowed**)
+1. **traditional AppImages** (**not Archimages**) can be launched without problems, but **only if they don't require libraries from the host system**, that is, outside of those contained in GearLever AppImage (being a portable container, it acts as a "host system" for other AppImages)
+2. **other ArchImages**, however, cannot be launched at all (error message says **Nested JuNest environments are not allowed** in BubbleWrap/normal mode, a **Fusermount** related error instead shows up in PROOT mode)
 
 Anywaym, it is possible to use this AppImage for all other GearLever features (menu integration, updates, etc...) for both classic AppImages and Archimages.
+
+If you want learn more about Archimages, visit https://github.com/ivan-hc/ArchImage
 
 ------------------------------------------------------------------------
 
