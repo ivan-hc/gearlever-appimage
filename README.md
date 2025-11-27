@@ -23,6 +23,14 @@ If you want learn more about Archimages, visit https://github.com/ivan-hc/ArchIm
 
 ------------------------------------------------------------------------
 
+## Alternative native build
+
+In "AM" package manager you can install and manage the native build maintained by [@fiftydinar](https://github.com/fiftydinar)
+
+https://github.com/pkgforge-dev/Gear-Lever-AppImage
+
+------------------------------------------------------------------------
+
 ## Install and update it with ease
 
 ### *"*AM*" Application Manager* 
@@ -41,12 +49,6 @@ If you want learn more about Archimages, visit https://github.com/ivan-hc/ArchIm
 *You can consult the entire **list of managed apps** at [**portable-linux-apps.github.io/apps**](https://portable-linux-apps.github.io/apps).*
 
 ## *Go to *https://github.com/ivan-hc/AM* for more!*
-
-------------------------------------------------------------------------
-
-## Alternative native build
-
-https://github.com/pkgforge-dev/Gear-Lever-AppImage
 
 ------------------------------------------------------------------------
 
