@@ -44,6 +44,12 @@ If you want learn more about Archimages, visit https://github.com/ivan-hc/ArchIm
 
 ------------------------------------------------------------------------
 
+## Alternative native build
+
+https://github.com/pkgforge-dev/Gear-Lever-AppImage
+
+------------------------------------------------------------------------
+
 | [***Install "AM"***](https://github.com/ivan-hc/AM) | [***See all available apps***](https://portable-linux-apps.github.io) | [***Support me on ko-fi.com***](https://ko-fi.com/IvanAlexHC) | [***Support me on PayPal.me***](https://paypal.me/IvanAlexHC) |
 | - | - | - | - |
 
